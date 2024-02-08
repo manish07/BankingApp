@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/bin/Debug/net7.0/BankingApp
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/bin/Debug/net7.0/BankingApp.deps.json
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/bin/Debug/net7.0/BankingApp.runtimeconfig.json
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/bin/Debug/net7.0/BankingApp.dll
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/bin/Debug/net7.0/BankingApp.pdb
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfo.cs
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.dll
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/refint/BankingApp.dll
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.pdb
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/BankingApp.genruntimeconfig.cache
+/Users/manishkumar/Downloads/WebApp/BankingApp/BankingApp/obj/Debug/net7.0/ref/BankingApp.dll
